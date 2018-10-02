@@ -7,9 +7,9 @@
   "initialUrlPath": "/login",
   "type": "cron",
   "category": "log_export",
-  "repository": "https://github.com/congha/auth0-logs-to-stackify",
+  "repository": "https://github.com/bartercard-international/auth0-logs-to-stackify",
   "docsUrl": "https://docs.stackify.com/",
-  "logoUrl": "https://cdn.rawgit.com/congha/auth0-logs-to-stackify/ce35f86a/stackify_logo.jpeg",
+  "logoUrl": "https://cdn.rawgit.com/bartercard-international/auth0-logs-to-stackify/6f22f968/stackify_logo.jpeg",
   "keywords": [
     "auth0",
     "extension"
@@ -30,7 +30,7 @@
       "required": true
     },
     "STACKIFY_ENV": {
-      "description": "Stackify Enviroment i.e Development, Production",
+      "description": "Stackify Enviroment i.e Development, Testing, Production",
       "required": true
     },
     "START_FROM": {
