@@ -2,7 +2,7 @@
 
 [![Auth0 Extensions](http://cdn.auth0.com/extensions/assets/badge.svg)](https://sandbox.it.auth0.com/api/run/auth0-extensions/extensions-badge?webtask_no_cache=1)
 
-This extension will take all of your Auth0 logs and export them to Papertrail.
+This extension will take all of your Auth0 logs and export them to Stackify.
 
 ## Configure Webtask
 
